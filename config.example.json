@@ -1,0 +1,9 @@
+{
+  "telegram_token": "YOUR_BOT_TOKEN_HERE",
+  "allowed_users": [],
+  "home_dir": "/data/data/com.termux/files/home",
+  "projects": {
+    "default": "home"
+  },
+  "upload_dir": "telegram_uploads"
+}

@@ -1,0 +1,9 @@
+# Ignore actual config (contains bot token)
+config.json
+
+# Uploaded files
+telegram_uploads/
+__pycache__/
+*.pyc
+.DS_Store
+*.log

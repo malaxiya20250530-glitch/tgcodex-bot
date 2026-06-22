@@ -1,0 +1,5 @@
+# No external dependencies required!
+# Bot uses only Python 3 standard library:
+#   - subprocess, urllib.request, json, os, sys, time, threading
+#
+# To run: python3 bot.py
